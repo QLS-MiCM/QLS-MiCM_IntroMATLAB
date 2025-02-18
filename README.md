@@ -15,4 +15,4 @@ This 4-hour hands-on workshop will introduce participants to MATLAB, one of the 
   - Workshop materials for Intro to MATLAB workshop on February 18th, 2025. 
 
 ## Setup
-Please download MATLAB application prior to the workshop, instructions can be found in the [Downloading MATLAB.pdf](https://github.com/QLS-MiCM/QLS-MiCM_IntroMATLAB/blob/main/Downloading%20MATLAB.pdf) file. 
+Please download MATLAB application prior to the workshop, instructions can be found in the [Downloading MATLAB.pdf](https://github.com/QLS-MiCM/QLS-MiCM_IntroMATLAB/blob/main/Slides/Downloading%20MATLAB.pdf) file. 
